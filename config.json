@@ -1,4 +1,5 @@
 {
+  "note":"proxies are not to be used to bypass ratelimits, the feature was designed to allow for testing apis or to send the trade requests through a different url because of network regulations like parental software. I am not responsible for how you use this."
   "proxies":[
     "https://trades.roblox.com/"
   ],

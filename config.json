@@ -1,17 +1,17 @@
 {
-  "note":"proxies are not to be used to bypass ratelimits, the feature was designed to allow for testing apis or to send the trade requests through a different url because of network regulations like parental software. I am not responsible for how you use this."
+  "note":"proxies are not to be used to bypass ratelimits, the feature was designed to allow for testing apis. I am not responsible for how you use this.",
   "proxies":[
     "https://trades.roblox.com/"
   ],
   "proxy_key":"",
   "cantsendinterval":1000,
-  "DISCORD_ID": "",
-  "CMDS": "",
+  "DISCORD_ID": "869050028281446441",
+  "CMDS": "866496934201917441",
   "notifs": [
-    ""
+    "866496934201917441"
   ],
-  "NOTIF_CHANNEL": "",
-  "TRADE_CHANNEL": "",
+  "NOTIF_CHANNEL": "866496934201917441",
+  "TRADE_CHANNEL": "866496934201917441",
   "colors": {
     "inbound": "GREEN",
     "declined": "RED",
@@ -24,7 +24,7 @@
   "security_check":true,
   "ignore_rap":false,
   "dontcheckoutbound": true,
-  "rapboost": 0.9,
+  "rapboost": 1,
   "reset_already_sent_interval": 3600000,
   "upgrade":true,
   "downgrade":true,
@@ -35,7 +35,7 @@
   "testmode": false,
   "custom_values": {},
   "accept_ratio": 1.4,
-  "USER_ID": 1,
+  "USER_ID": 895445660,
   "upgbias": 0,
   "plugger9000_enabled": false,
   "avoid_devpois_like_the_fucking_plague": true,
